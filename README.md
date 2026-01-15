@@ -1,5 +1,8 @@
 # 🚗 Car Mileage Prediction System (City, Average & Highway)
 
+🔗 Live App:
+👉 https://car-mileage-predictor.streamlit.app/
+
 A complete end-to-end **Machine Learning regression project** that predicts a car’s **City**, **Average**, and **Highway mileage (MPG)** based on user-provided vehicle specifications.
 
 The project covers:
